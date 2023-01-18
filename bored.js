@@ -1,11 +1,7 @@
 $(function () {
-  const API_ADDRESS = "http://www.boredapi.com/api/activity/";
-
-  //getRandomActivity();
+  const API_ADDRESS = "https://www.boredapi.com/api/activity/";
 
   function getRandomActivity() {
-    //let id = Math.floor(Math.random());
-
     fetch(API_ADDRESS)
       .then((response) => {
         if (!response.ok) {
