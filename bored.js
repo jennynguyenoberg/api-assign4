@@ -24,5 +24,5 @@ $(function () {
       })
   }
   // ---- Button ----
-  $(".get-activicy").on("click", getRandomActivity);
+  $(".get-activity").on("click", getRandomActivity);
 })
