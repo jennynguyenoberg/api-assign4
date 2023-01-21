@@ -14,14 +14,16 @@
 
 <body>
   <header>
-    <h1>Are you bored?</h1>
+    <h1 id="header" class="visible">Bored? Click the button to generate an activity!</h1>
   </header>
   <main>
-    <button class="get-activity">Get activity!</button>
-    <h2 class="activity-name"></h2>
-    <p class="activity-category"></p>
-    <p class="participants"></p>
+    <div id="container" class="invisible">
+      <p class="activity-name" id="activity">Activity</p>
+      <p class="activity-type" id="type">Type</p>
+      <p class="activity-participants" id="participants">Participants</p>
+    </div>
   </main>
+  <button class="get-activity" id="button">Get activity</button>
 </body>
 
 </html>
