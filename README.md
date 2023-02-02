@@ -1,5 +1,5 @@
 # Connecting to an API
-Assignment 4 at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer). Excercise of how to fetch data from an external resource using JSON objects, AJAX, HTML/CSS/JS and jQuery.
+Assignment 4 at [Changemaker Education](https://cmeducations.se/utbildningar/program/frontend-app-developer) of HTML/CSS/JS module. Excercise of how to fetch data from an external resource using JSON objects, AJAX, HTML/CSS/JS and jQuery.
 
 Visit site [here](https://jennynguyenoberg.github.io/api-assign4/).
 
